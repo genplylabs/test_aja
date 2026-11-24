@@ -1,0 +1,8 @@
+{
+  "name": "Kinesis Story Studio",
+  "description": "PlayCanvas-powered visual story engine builder, facial expression atlas generator, and cinematic WebGL playback runtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
